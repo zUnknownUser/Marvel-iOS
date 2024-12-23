@@ -32,7 +32,6 @@ Desenvolvido com Swift e utilizando a API oficial da Marvel, este app te permite
 **Tecnologias Utilizadas:**
 
 * **Swift:** A linguagem de programação mais poderosa para iOS.
-* **UIKit:** Framework para criar interfaces de usuário nativas.
 * **Alamofire:** Biblioteca para realizar requisições HTTP à API da Marvel.
 * **[Outras tecnologias utilizadas]**
 
