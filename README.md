@@ -35,3 +35,11 @@ Desenvolvido com Swift e utilizando a API oficial da Marvel, este app te permite
 * **Alamofire:** Biblioteca para realizar requisições HTTP à API da Marvel.
 * **[Outras tecnologias utilizadas]**
 
+
+
+
+
+**MARVEL API descontinuada, por isso, as informações nao serão obtidas!**
+
+**Projeto descontinuado**
+
